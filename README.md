@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./perfil.jpg" width="150" style="border-radius: 50%; border: 3px solid #2d3748;" alt="Foto de Perfil">
-</p>
+
 
 <h1 align="center">👨‍💻 Kevin de Souza</h1>
 <h3 align="center">Estudante de Desenvolvimento de Sistemas | ETEC Itaquaquecetuba</h3>
