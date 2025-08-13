@@ -30,8 +30,8 @@
 ---
 <div align="center">
   <a href="https://github.com/SEU_USER">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hznq&show_icons=true&theme=dark&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hznq&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin20ds&show_icons=true&theme=dark&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin20ds&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 ---
@@ -50,17 +50,17 @@
 ### 📫 Contato
 
 <div align="center"> 
-  <a href="https://www.instagram.com/gabriel_hznq/" target="_blank">
+  <a href="https://www.instagram.com/kevin_ds_n/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="mailto:gh5931808@gmail.com">
+  <a href="kevindsnovais@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-xavier-617a1a34b/" target="_blank">
+  <a href="https://www.linkedin.com/in/Kevin de Souza/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hznq&label=Profile%20views&color=0e75b6&style=flat" alt="Hznq" /> 
+  <img src="https://komarev.com/ghpvc/?username=kevin20ds&label=Profile%20views&color=0e75b6&style=flat" alt="kevin20ds" /> 
 </p>
