@@ -26,15 +26,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
----
-<div align="center">
-  <a href="https://github.com/SEU_USER">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin20ds&show_icons=true&theme=dark&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin20ds&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
----
-
 
 
 ### 🌟 Objetivos
@@ -55,7 +46,7 @@
   <a href="kevindsnovais@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/Kevin de Souza/" target="_blank">
+  <a href="(https://www.linkedin.com/in/kevin-de-souza-novais-347726335/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
 </div>
