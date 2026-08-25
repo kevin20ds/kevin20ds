@@ -20,7 +20,7 @@
 
 **Back-end:**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-blue?logo=dart)
+![Dart](https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart)
 
 **Banco de Dados:**  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
